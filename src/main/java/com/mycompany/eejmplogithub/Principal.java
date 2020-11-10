@@ -28,6 +28,9 @@ public class Principal {
     
         //segundo comentario
         JOptionPane.showInputDialog("Hola mundo 2");
+        
+        //comentario número 3
+        JOptionPane.showInputDialog("Hola mundo 3");
     }
     
 }
