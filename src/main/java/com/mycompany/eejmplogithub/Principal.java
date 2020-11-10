@@ -22,7 +22,12 @@ public class Principal {
     //código de desarrollo
     
         JOptionPane.showInputDialog("Hola mundo");
+        
+        //comentario
+        
     
+        //segundo comentario
+        JOptionPane.showInputDialog("Hola mundo 2");
     }
     
 }
